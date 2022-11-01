@@ -2,6 +2,14 @@
 
 ## I have created a work day scheduler that will save values that are inputted into the text area and once the save button is clicked will save to local storage. Once that is done every 30 seconds the page will update and information that is change as well as depending on the time will vary whether is is defined as past present or future.
 
+
+## repository website
+https://github.com/RudezY/Work-Day-Scheduler
+## deployed website
+https://rudezy.github.io/Work-Day-Scheduler/
+
+![HW5 Screenshots](./Assets/rudezy-github-io-Work-Day-Scheduler--1.png)
+
 ## Your Task
 
 Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
